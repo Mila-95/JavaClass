@@ -1,0 +1,46 @@
+Types of variable: Class17 Recap
+There are 3 types of variables local.instance and static
+local variables:
+The variables that are declared inside a method or block of code are called local variable
+Pros:
+Save memory
+Cons:
+Limited access can not be accessed outside of methods or block of code where they are declered.
+Instance variables:
+The variable which are declared inside a class but outside of a method or blick of code are called instance variables.
+Pros:
+Instance variables are accessible in all the methods of the class
+Cons:
+They occupy the computers memory for longer as compared to local variables
+static variables:
+if instance variable have the static keyword with them they are called static variables.
+Pros:
+Single memory location for all the objects of that class.
+Cons:
+Can hold only one value for all the objects and stays even longer inside the memory then instance variable
+=========================================================================================================
+Access modifiers;
+Access modifiers are keywords in Java that defines from a certain variable method  or a class can be accessed
+
+Their a re 4 types of accesses in Java that we can define using three keywords
+1)Private
+2)Protected
+3)public
+
+Types of access are 4
+1)Private
+2)Default(applied when no keyword is used)
+3)Protected
+4)Public
+Private access (keyword is private).
+When we use the private keyword with any of the variable method or classes these can only be
+accessed with in that class.
+Default access(applied when we don't know use any keyword Java to those variables methods or classes etc.
+which means these this things can only be accessed from the same package.
+Protected access(We use the protected class)
+When protected access is applied class members (variable methods etc.)can be accessed
+from other packages but only in the classes that participate in inheritance
+public assess(public keyword);
+public means class member and classes can be accessed from anywhere inside that project.
+
+

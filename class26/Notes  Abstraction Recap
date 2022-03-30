@@ -1,0 +1,56 @@
+7)What is Abstraction? How can we
+achieve an Abstraction in Java? What is
+Interface? What is Abstract Class?
+Interface vs Abstract Class?
+
+Abstraction in Java means Hiding the
+implementation details and providing
+the functionality only.
+We can achieve 100% abstraction
+using interfaces.
+Two methods to achieve abstraction in Java:
+1)Abstract classes
+Abstract classes are
+classes with abstract keyword.
+2)Interfaces
+Interfaces are the contracts that
+we create with the help of
+interfaces keyword.
+
+If two or more classes are
+closely related to each other
+go with abstract classes
+If two classes are not related
+to each other we should create
+an interface for that
+
+
+
+
+
+
+
+
+Abstraction in Java means Hiding the implementation details and providing the functionality only.
+Two methods to achieve abstraction in Java:
+1)Abstract classes
+Abstract classes are classes with abstract keyword.
+2)Interfaces
+Interfaces are the contracts that we create with the help of interfaces keyword.
+
+1)Prefer interfaces over abstract classes.
+2)If two or more classes are closely related to each other go with abstract classes for example if we  have to create
+a Lion class and Horse class we should go with abstract classes and should create an animal abstract class.
+If two classes are not related to each other for example an Apple and a Cloth we should create an interface for that
+look if we want to have a behavior washAble .
+=======================================================
+Encapsulation:
+It is the forth pillar of OOPS it provides security and better control over the data of a class.
+We create classes and inside those classes we create private fields and methods.
+This methods are classes getter setter methods and we set and get the value of the class fields with the hepl
+of these methods instead of
+
+Eclipse vs Intellij
+workspace vs project
+project vs module
+

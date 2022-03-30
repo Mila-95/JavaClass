@@ -1,0 +1,19 @@
+Method Overriding in Java:
+Methods overriding happens when we have same name methods in parent and child classes
+Benefits
+1) If we don't like something in parent class we can rewritings.
+2)Same method can act differently depending upon the object on with we call it.
+Rules:
+1)without inheritance method overriding is not possible.
+2)method signature should be same in parent class and child class.
+3)if something does participate in inheritance we cant overriding.
+If we participate with constructor and private method we cannot override
+4)we can increase the visibility in the child classes but we cant decree it
+for example we can go from default or protected to public but we cant di the reverse
+5)We cannot override the static method but we can redeclare.Foer example Main Method cant be overwritten as it is static.
+6)We cant have different return type in the child class it must be the same as parent class
+OOPS Main pillars:
+1)Inheritance(code re-usability)
+2)Polymorphism(1.Less code 2.Dynamic code)
+3)AAbstraction()
+4)Encapsulating()

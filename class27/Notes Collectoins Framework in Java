@@ -1,0 +1,26 @@
+Collections Framework in Java:
+Collections of classes that help us manage and manipulate data in batter way.
+1)Arraylist class
+  1)This class has many built-in methods like add(), remove(), clear(), etc...
+  2)Dynamic and can adjust their size at run time.
+  ArrayList<String> arrayList=new ArrayList<>();
+  ArrayList --> name of the class
+  <> --> diamond operator we specify the data type that we will be storing inside
+  Wrapper classes
+  byte  --> Byte
+  short --> Shor
+  int   --> Integer
+  double--> Double
+  Why we have wrapper clasess
+  1)we get bult -in method
+  2)a lot og frameworks don't support primitives
+  When to use primitives:
+  When we care about the memory because primitives occupy 4 time less memorry
+  as compered to wrapper
+  2)performance
+  When we can use Wrapper
+  When we care about our ease.
+  Difference boxing and unboxing converting a primitive
+  boxing primitive -> wrapper unboxing wrapper ->primitive
+  //converting to primitive is boxing
+  // converting from wrapper to primitive is unboxing

@@ -1,0 +1,16 @@
+Method overloading in java;
+When same method mane exist in the class but with different number of parameters or different type of parameters
+or different sequence of parameters.
+Advantages of method overloading
+  1)Flexibility of having same name method in the class
+  2)End user gets the benefit that he does not need to remember different method names.
+  Rules:
+  We can overload the constructors
+  We can overload static method as well
+we can overload the main method sa well
+Method overwriting:
+1)Method overwriting happens when we have the same name method in the parent
+ class and in the child class.
+ 2)We can have only override a method if we have inheritance relationship between two
+ classes
+ 3)we cant override the private methods because they don't participate in inheritance
