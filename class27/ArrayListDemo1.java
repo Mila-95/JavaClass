@@ -1,6 +1,5 @@
-package com.syntax.class27;
+package com.syntax.Class27;
 
-import java.sql.Array;
 import java.util.ArrayList;
 
 public class ArrayListDemo1 {

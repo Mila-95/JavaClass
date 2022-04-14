@@ -7,7 +7,7 @@ Advantages of method overloading
   Rules:
   We can overload the constructors
   We can overload static method as well
-we can overload the main method sa well
+  we can overload the main method sa well
 Method overwriting:
 1)Method overwriting happens when we have the same name method in the parent
  class and in the child class.

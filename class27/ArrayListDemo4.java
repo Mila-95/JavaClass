@@ -1,4 +1,4 @@
-package com.syntax.class27;
+package com.syntax.Class27;
 
 import java.util.ArrayList;
 
