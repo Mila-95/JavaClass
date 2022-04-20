@@ -23,5 +23,6 @@ public class ExelDemo6 {
         row.createCell(3).setCellValue("Almaty");
         FileOutputStream fileOutputStream=new FileOutputStream(path);
         xssfWorkbook.write(fileOutputStream);
+
     }
 }

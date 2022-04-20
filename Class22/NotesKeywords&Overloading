@@ -12,9 +12,10 @@ that at least takes those two arguments.
 ==============================================================================================
 
 Method overloading in Java:
+
 If we hava same name methods in the class with different number of parameters or different sequence of parameters
 or different data types of the parameters it is called methods overloading.
-class calaculator{
+class calculator{
 
   add(int number,int number2){
 }
