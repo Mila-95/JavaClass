@@ -7,7 +7,8 @@ Rules:
 3)Constructors cannot have none access modifier like static final ect.
 4)We can use access modifier like public private protected with constructor.
 5)If we don't wright the constructor in the class a default constructor is provided by compiler
-6)we can have multiple constructors in a class but their number of arguments sequence of argument of type of arguments should be defferent.
+6)we can have multiple constructors in a class but their number of arguments sequence of argument
+ of type of arguments should be different.
 7)If we have multiple constructors then Java decide which constructor to call based on the parameter we pass
 This keywords:
 it is a reserved keyword in Java that we can use to refer to instance variable methods of constructors of a class

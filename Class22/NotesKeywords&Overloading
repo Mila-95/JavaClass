@@ -8,7 +8,7 @@ super keyword to access parent class method otherwise by default java refers to 
 Rules:
 1)If we have a constructor in the parent class that takes two argument we must have a constructor inside the child class
 that at least takes those two arguments.
-2)We cant use this() and super() inside the same constructor.
+2)We cannot use this() and super() inside the same constructor.
 ==============================================================================================
 
 Method overloading in Java:

@@ -7,7 +7,7 @@ Save memory
 Cons:
 Limited access can not be accessed outside of methods or block of code where they are declered.
 Instance variables:
-The variable which are declared inside a class but outside of a method or blick of code are called instance variables.
+The variable which are declared inside a class but outside of a method or block of code are called instance variables.
 Pros:
 Instance variables are accessible in all the methods of the class
 Cons:

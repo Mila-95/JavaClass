@@ -1,7 +1,7 @@
 Inheritance in Java:
-Its a mechanism in Java trough which a child class gets the properties and methods for parent class
+Its a mechanism in Java trough which a child class gets the properties and methods from parent class
 
-Benefits: Whu do we need to use inheritance
+Benefits: Why do we need to use inheritance
   1)Save time to code
   2)code duplication is reduced
   3)execution time is faster
@@ -9,7 +9,7 @@ Benefits: Whu do we need to use inheritance
 DisAdvantages:
 Classes are tightly coupled if we changer something in parent class it is also changed in the child class.
   Types of inheritance
-  There are for tupes of inheritance but java only support 3 of them
+  There are four types of inheritance but java only support 3 of them
  1)Single
  2)Hierarchical
  3)multilevel
@@ -21,7 +21,7 @@ Classes are tightly coupled if we changer something in parent class it is also c
  class Child extends Parent{
  }
  Hierarchical:
- In Hierarchical inheritence we have a single Parent class and multiple child classes
+ In Hierarchical inheritance we have a single Parent class and multiple child classes
  class Parent{
  }
  class1 Child1 extend Patent{
