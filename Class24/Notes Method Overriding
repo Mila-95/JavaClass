@@ -1,5 +1,5 @@
 Method Overriding in Java:
-Methods overriding happens when we have same name methods in parent and child classes
+Methods overriding happens when we have same  methods name and parameters in parent and child classes
 Benefits
 1) If we don't like something in parent class we can rewritings.
 2)Same method can act differently depending upon the object on with we call it.
